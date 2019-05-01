@@ -1,0 +1,5 @@
+linux commands
+mkdir
+cd
+cat
+
