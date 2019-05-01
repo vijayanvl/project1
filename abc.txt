@@ -1,0 +1,6 @@
+adding content to the file
+mkdir
+cd
+vi
+cat
+la
