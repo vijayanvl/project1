@@ -1,5 +1,6 @@
-linux commands
+ilinux commands
 mkdir
 cd
 cat
+efg
 
